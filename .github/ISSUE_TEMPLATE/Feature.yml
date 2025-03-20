@@ -2,6 +2,7 @@ name: Feature Suggestion
 description: Suggest a feature for the 5e Reshaped project
 title: "[Feature]: "
 labels: ["Feature Discussion"]
+type: Feature
 assignees:
   - kurohyou
 body:
