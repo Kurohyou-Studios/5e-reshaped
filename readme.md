@@ -18,7 +18,7 @@
 An update to the 5e Shaped sheet to bring new features and compatibility with the 5e compendium
 
 
-<a href="https://github.com/Kurohyou-Studios/5e-reshaped"><strong>Explore the docs »</strong></a>
+<!-- <a href="https://github.com/Kurohyou-Studios/5e-reshaped"><strong>Explore the docs »</strong></a> -->
 
 
 <a href="https://github.com/Kurohyou-Studios/5e-reshaped/issues">Report Bug or Request a Feature</a>
