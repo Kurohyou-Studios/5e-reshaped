@@ -6,18 +6,15 @@ type: Feature
 assignees:
   - kurohyou
 body:
-  - type: markdown
+  - type: textarea
     attributes:
       label: What is the feature you are requesting?
       description: Suggested Features should be specific functionality that is broadly applicable.
-      render: markdown
-  - type: markdown
+  - type: textarea
     attributes:
       label: Benefit
       description: What benefit does this provide?
-      render: markdown
-  - type: markdown
+  - type: textarea
     attributes:
       label: Issues/Problems
       description: Do you forsee any issues with this feature?
-      render: markdown
