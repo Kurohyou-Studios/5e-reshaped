@@ -2,6 +2,7 @@ name: Feature Suggestion
 description: Suggest a feature for the 5e Reshaped project
 title: "[Feature]: "
 labels: ["Feature Discussion"]
+type: Feature
 assignees:
   - kurohyou
 body:
@@ -9,14 +10,11 @@ body:
     attributes:
       label: What is the feature you are requesting?
       description: Suggested Features should be specific functionality that is broadly applicable.
-      render: markdown
   - type: textarea
     attributes:
       label: Benefit
       description: What benefit does this provide?
-      render: markdown
   - type: textarea
     attributes:
       label: Issues/Problems
       description: Do you forsee any issues with this feature?
-      render: markdown
