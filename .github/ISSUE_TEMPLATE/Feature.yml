@@ -10,19 +10,13 @@ body:
       label: What is the feature you are requesting?
       description: Suggested Features should be specific functionality that is broadly applicable.
       render: markdown
-      options:
-        required: true
   - type: textarea
     attributes:
       label: Benefit
       description: What benefit does this provide?
       render: markdown
-      options:
-        required: true
   - type: textarea
     attributes:
       label: Issues/Problems
       description: Do you forsee any issues with this feature?
       render: markdown
-      options:
-        required: false
