@@ -34,16 +34,16 @@ An update to the 5e Shaped sheet to bring new features and compatibility with th
 <li><a href="#built-with">Built With</a></li>
 </ul>
 </li>
-<li>
+<!-- <li>
 <a href="#getting-started">Getting Started</a>
 <ul>
 <li><a href="#prerequisites">Prerequisites</a></li>
 </ul>
-</li>
-<li><a href="#usage">Usage</a></li>
-<li><a href="#tests">Tests</a></li>
+</li> -->
+<!-- <li><a href="#usage">Usage</a></li>
+<li><a href="#tests">Tests</a></li> -->
 <li><a href="#roadmap">Roadmap</a></li>
-<li><a href="#contributing">Contributing</a></li>
+<!-- <li><a href="#contributing">Contributing</a></li> -->
 <li><a href="#license">License</a></li>
 <li><a href="#contact">Contact</a></li>
 <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -65,15 +65,15 @@ The goal of this project is to provide a powerful Roll20 character sheet for the
 <!-- GETTING STARTED -->
 
 <!-- ## Getting Started
-TODO -->
+TODO
 ### Prerequisites
 npm, node
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p> -->
 <!-- USAGE EXAMPLES -->
 
 <!-- ## Usage
-TODO -->
-<p align="right">(<a href="#top">back to top</a>)</p>
+TODO
+<p align="right">(<a href="#top">back to top</a>)</p> -->
 <!-- ROADMAP -->
 
 <!-- ## Tests
