@@ -98,7 +98,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 
 ## License
-Distributed under the mit License. See [LICENSE.txt](LICENSE.txt) for more information.
+Distributed under the mit License. See [LICENSE](LICENSE) for more information.
 <p align="right">(<a href="#top">back to top</a>)</p>
 <!-- CONTACT -->
 
